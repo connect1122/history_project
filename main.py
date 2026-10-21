@@ -23,7 +23,7 @@ def main_screen():
 
     bg.draw_rect(5, 5, 150, 110, 5)
 
-    bg.print_center("HISTORY", 20, 5)
+    bg.print_center("EHFRU", 20, 5)
     bg.print_center("ADVENTURE", 38, 1)
 
     # PLAY 버튼
